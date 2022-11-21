@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Taylor Jensen
+          Taylor Jensen first React App
         </a>
       </header>
     </div>
